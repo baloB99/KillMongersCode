@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "125846002239",
+    "firebase_url": "https://killmonger-s-code-default-rtdb.firebaseio.com",
+    "project_id": "killmonger-s-code",
+    "storage_bucket": "killmonger-s-code.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125846002239:android:d0dca4e24eb1ed4e11b68a",
+        "android_client_info": {
+          "package_name": "com.killmongerscode.aid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125846002239-9ui72tkeijdic1ml4d81e91ifkr1muoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVEqD8Ar4QgNETZEDPG2r3NZ-ykttyDWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125846002239-9ui72tkeijdic1ml4d81e91ifkr1muoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
